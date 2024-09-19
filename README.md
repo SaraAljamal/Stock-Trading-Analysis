@@ -9,10 +9,10 @@ The Project involves 2 identical datasets with different target column in each w
 _**Project Workflow**_
 1. Descriptive Analysis: Conducted on one dataset to understand trading behavior and key trends. Visualization and analysis were performed on features such as trade volume, market activity, and price variations.
    
-2. Predictive Analysis: 
-- Feature Selection: Applied techniques like SelectKBest to select the most relevant features for predicting stock prices. 
-- Regression Models: Linear Regression, Decision Tree, and K-Nearest Neighbors (KNN) were used to predict both the "high" and "low" stock prices. 
--Evaluation: The models were evaluated using RMSE, MAE, and R2 metrics. Comparisons between models were made to identify the best-performing technique.
+2. Predictive Analysis:
+  - Feature Selection: Applied techniques like SelectKBest to select the most relevant features for predicting stock prices. 
+  - Regression Models: Linear Regression, Decision Tree, and K-Nearest Neighbors (KNN) were used to predict both the "high" and "low" stock prices. 
+  - Evaluation: The models were evaluated using RMSE, MAE, and R2 metrics. Comparisons between models were made to identify the best-performing technique.
 
 3. Prescriptive Analysis: Grey Wolf Optimization (GWO), Multi-Verse Optimization (MVO), and Sin Cosine Algorithm (SCA) optimization algorithms were applied to find the optimal stock quantities to minimize costs.
 
