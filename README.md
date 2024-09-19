@@ -26,11 +26,11 @@ _**Tech Stack**_
 
 _**How to Use**_
 1.	Stock_Trading_Analysis.ipynb Notebooks:
-o	The First part contains the descriptive and predictive analysis parts, while the second contains the perspective analysis 
-o	To run each notebook, open the it in Google Colab:
-- Click on the notebook file (Stock_Trading_Analysis.ipynb).
-- Choose "Open in Colab" from the GitHub file preview.
-- You can run the cells sequentially to see the steps and results.
+- The First part contains the descriptive and predictive analysis parts, while the second contains the perspective analysis 
+- To run each notebook, open the it in Google Colab:
+  - Click on the notebook file (Stock_Trading_Analysis.ipynb).
+  - Choose "Open in Colab" from the GitHub file preview.
+  - You can run the cells sequentially to see the steps and results.
 
 2.	Stock_Trading_Analysis Report:
 - The report (Stock_Trading_Analysis Report.docx) includes: 
